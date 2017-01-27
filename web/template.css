@@ -1,0 +1,93 @@
+html{
+	width: 100%;
+	background-color: #4d4d4d;
+	display: flex;
+	align-items: center;
+}
+body{
+	color: #525564;
+	display: flex;
+	margin-left:10%;
+	margin-right: 10%;
+	width:80%;
+	background-color: #fef6eb;
+	flex-direction: column;
+	align-content: center;
+	flex-wrap: wrap;
+}
+#header{
+
+	width: 100%;
+	background-color: #;
+	display: flex;
+	flex-direction: row; 
+	justify-content: space-between;
+
+
+}
+#socialmedia{
+	font-size: .65em;
+
+}
+#socialmedia a{
+	color:#de2226;
+	text-decoration: none;
+}
+#logo{
+	width: 9em;
+	height: 3em;
+}
+#menu{
+	width: 100%;
+	margin-bottom: .5em;
+	background-color: #96c0ce;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+#menuitems{
+	display: flex;
+	justify-content: space-around;
+	width: 30em;
+	font-size: 1em;
+}
+#menu a{
+	color: #ffffff;
+	text-decoration: none;
+}
+#menu a:hover{
+	font-weight: bold;
+}
+#banner{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+#bannertext{
+	position: absolute;
+	width: 11em;
+	top: 50%;
+	list-style: none;
+	color: #ffffff;
+}
+#actionbtn{
+	width: 10em;
+}
+#banimg{
+	margin-right: 1%;
+	margin-left: 1%;
+	width:98%; 
+	height:30em;
+	position: relative;
+}
+.rr{
+	display: flex;
+	flex-direction: column-reverse;
+
+}
+#reviews{
+
+}
+#footer{
+
+}
